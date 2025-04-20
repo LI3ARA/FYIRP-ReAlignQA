@@ -3,3 +3,9 @@ Data/*
 Obsidian-vault-fyp/*
 Notebooks/25/Graph_RAG/*
 Notebooks/25/VQA_RAG/Evaluation/responses_llava_only/*
+Notebooks/25/VQA_RAG/chroma_storage/*
+Notebooks/25/VQA_RAG/chromadb/*
+.env
+Eval_outputs/*
+Models/*
+src/__pycache__/*
