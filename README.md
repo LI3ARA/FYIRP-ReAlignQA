@@ -67,3 +67,6 @@ API_KEY=your-api-key
 ## UI & Deployment
 - Gradio demo: `src/multimodal_gradio_UI.ipynb`
 - Colab scripts for LLaVA fine tuning and evaluation: `VQA_RAG/Googl_colab/soft_prompting/`
+  
+## Cite the Work
+[![DOI](https://zenodo.org/badge/884740883.svg)](https://doi.org/10.5281/zenodo.15471173)
